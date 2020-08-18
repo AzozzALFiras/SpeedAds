@@ -1,0 +1,9 @@
+Package: co.azozzalfiras.speedads
+Name: SpeedAds
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Version: 1.6
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
