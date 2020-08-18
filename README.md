@@ -3,3 +3,5 @@ Accelerate the operation of ads within games and applications without blocking t
 
 
 # Developed by Azozz ALFiras
+
+# Thanks To shiar Ahmed for Hook's 
